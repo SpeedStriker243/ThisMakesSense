@@ -1,1 +1,1 @@
-os.execute("./file3.java")
+os.execute("./file3.ruby")
