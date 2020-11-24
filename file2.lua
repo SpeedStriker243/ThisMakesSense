@@ -1,1 +1,1 @@
-os.execute("./file3.lua")
+os.execute("./file3.java")
