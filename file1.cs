@@ -7,7 +7,7 @@ namespace file1
     {
         int Main()
         {
-            Process.Start("./file2.c");
+            Process.Start("./file2.lua");
         }
     }
 }
